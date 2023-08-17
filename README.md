@@ -1,2 +1,2 @@
-# bio site
-This is a one-page site as a hub for links to all past and present projects. Plus social links.
+# public works
+One page hub to share links for assets and in-progress public projects for clients and collaborators.
