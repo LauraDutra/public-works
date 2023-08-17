@@ -1,2 +1,2 @@
-# bio
-One page bio site for linking to other sites and work
+# bio site
+This is a one-page site as a hub for links to all past and present projects. Plus social links.
